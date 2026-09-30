@@ -1,0 +1,8 @@
+torch>=2.4
+torchaudio>=2.4
+torchcodec>=0.2
+transformers>=5.0
+timm
+numpy
+pyyaml
+tqdm
