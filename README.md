@@ -26,16 +26,15 @@ assets/demo/         before/after post-training videos shown below
 ## Demo
 
 Text-to-audio-video generations before and after SyncReward-guided DiffusionNFT post-training,
-using matched prompts. Previews are silent GIFs; **click a preview to open the mp4 with audio**
-(synchronization can only be judged with sound on).
+using matched prompts. Each clip is a 5 s mp4 with audio; please play with sound on.
 
 | Case | Before post-training | After post-training |
 | :--- | :---: | :---: |
-| 1. Spoken dialogue | [<img src="assets/demo/case1-before.gif" width="300">](assets/demo/case1-before.mp4) | [<img src="assets/demo/case1-after.gif" width="300">](assets/demo/case1-after.mp4) |
-| 2. Singing with a string instrument | [<img src="assets/demo/case2-before.gif" width="300">](assets/demo/case2-before.mp4) | [<img src="assets/demo/case2-after.gif" width="300">](assets/demo/case2-after.mp4) |
-| 3. Handling a toy gun | [<img src="assets/demo/case3-before.gif" width="300">](assets/demo/case3-before.mp4) | [<img src="assets/demo/case3-after.gif" width="300">](assets/demo/case3-after.mp4) |
-| 4. Drummer on stage | [<img src="assets/demo/case4-before.gif" width="300">](assets/demo/case4-before.mp4) | [<img src="assets/demo/case4-after.gif" width="300">](assets/demo/case4-after.mp4) |
-| 5. Drumline | [<img src="assets/demo/case5-before.gif" width="300">](assets/demo/case5-before.mp4) | [<img src="assets/demo/case5-after.gif" width="300">](assets/demo/case5-after.mp4) |
+| 1. Spoken dialogue | [case1-before.mp4](assets/demo/case1-before.mp4) | [case1-after.mp4](assets/demo/case1-after.mp4) |
+| 2. Singing with a string instrument | [case2-before.mp4](assets/demo/case2-before.mp4) | [case2-after.mp4](assets/demo/case2-after.mp4) |
+| 3. Handling a toy gun | [case3-before.mp4](assets/demo/case3-before.mp4) | [case3-after.mp4](assets/demo/case3-after.mp4) |
+| 4. Drummer on stage | [case4-before.mp4](assets/demo/case4-before.mp4) | [case4-after.mp4](assets/demo/case4-after.mp4) |
+| 5. Drumline | [case5-before.mp4](assets/demo/case5-before.mp4) | [case5-after.mp4](assets/demo/case5-after.mp4) |
 
 Before and after clips are different generations from the same prompt, so frames do not
 correspond one-to-one. In case 2 the post-trained output drops the instrument named in the prompt,
