@@ -36,10 +36,6 @@ using matched prompts. Each clip is a 5 s mp4 with audio; please play with sound
 | 4. Drummer on stage | [case4-before.mp4](assets/demo/case4-before.mp4) | [case4-after.mp4](assets/demo/case4-after.mp4) |
 | 5. Drumline | [case5-before.mp4](assets/demo/case5-before.mp4) | [case5-after.mp4](assets/demo/case5-after.mp4) |
 
-Before and after clips are different generations from the same prompt, so frames do not
-correspond one-to-one. In case 2 the post-trained output drops the instrument named in the prompt,
-illustrating the trade-off between synchronization and prompt fidelity discussed in the paper.
-
 ## Installation
 
 ```bash
